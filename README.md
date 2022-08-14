@@ -12,10 +12,14 @@ Just books I've read, and reviews I've written.
 
 ## Table of Contents
 * [Fiction](#fiction)
+* <a href = "#freza">And More Books...</a>
 * [License](#license)
 
 ## Fiction
 1. 棋王，阿城著
+
+## <a id = "freza">And More Books...</a>
+1. 晚清官场镜像：杜凤治日记研究，邱捷著
 
 ## License
 All rights reserved, for personal study only, no commercial use.
