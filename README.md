@@ -16,11 +16,7 @@ Just books I've read, and reviews I've written.
 * [License](#license)
 
 ## Fiction
-1. 棋王，阿城著
-
-## <a id = "freza">And More Books...</a>
-1. 这书能让你戒烟，[英] 亚伦·卡尔著
-1. 晚清官场镜像：杜凤治日记研究，邱捷著
+1. 高老头，[法] 奥诺雷·德·巴尔扎克著，傅雷译
 
 ## License
 All rights reserved, for personal study only, no commercial use.
