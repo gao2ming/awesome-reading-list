@@ -12,10 +12,10 @@ Just books I've read, and reviews I've written.
 
 ## Table of Contents
 * [Fiction](#fiction)
-* <a href = "#freza">And More Books...</a>
 * [License](#license)
 
 ## Fiction
+1. Napoleon: A Screenplay, by Stanley Kubrick
 1. 高老头，[法] 奥诺雷·德·巴尔扎克著，傅雷译
 
 ## License
